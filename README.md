@@ -1,4 +1,4 @@
-# Decibel Airlines Reservation System
+# Airlines Reservation System
 An airplane reservation system developed with infinite lines of Java code compiled using Netbeans IDE. Perfectly combined with the handcrafted design graphic user interface. 
 
 
